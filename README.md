@@ -3,6 +3,5 @@ Repositorio de ejemplo para Ciclo 3 Mintic UdeA
 
 Integrantes:
 -Andrés Sáez Ariza
--Diego R
+-Diego Rincón
 -Eliana Mendoza
--Danys Ortiz
